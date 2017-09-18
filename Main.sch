@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:tmb_musicplayer-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -30,10 +29,6 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:stm32
-LIBS:vs10xx
-LIBS:jfi_components
-LIBS:opendous
-LIBS:connectors
 LIBS:tmb_musicplayer-cache
 EELAYER 25 0
 EELAYER END
