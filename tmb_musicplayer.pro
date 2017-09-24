@@ -1,4 +1,4 @@
-update=Mo 18 Sep 2017 21:53:45 CEST
+update=Sa 23 Sep 2017 10:41:05 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../janfietz-kicad-library/library
+LibDir=../janfietz-kicad-library/library;../kicad-libraries/MF_EDALibraries/KiCad/Schematics
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=stm32
+LibName31=MF_Passives
