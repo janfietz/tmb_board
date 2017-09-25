@@ -1,4 +1,4 @@
-update=Sa 23 Sep 2017 10:41:05 CEST
+update=Mon 25 Sep 2017 09:15:30 PM CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../janfietz-kicad-library/library;../kicad-libraries/MF_EDALibraries/KiCad/Schematics
+LibDir=../janfietz-kicad-library/library;../kicad-library-repos/kicad-library/library;../kicad-library-repos/EDALibraries/KiCad/Schematics
 [eeschema/libraries]
 LibName1=power
 LibName2=device
