@@ -30,6 +30,8 @@ LIBS:contrib
 LIBS:valves
 LIBS:stm32
 LIBS:MF_Passives
+LIBS:MF_Connectors
+LIBS:misc
 LIBS:tmb_musicplayer-cache
 EELAYER 25 0
 EELAYER END

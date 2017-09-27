@@ -1,4 +1,4 @@
-update=Mon 25 Sep 2017 09:15:30 PM CEST
+update=Wed 27 Sep 2017 10:06:16 PM CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,5 @@ LibName28=contrib
 LibName29=valves
 LibName30=stm32
 LibName31=MF_Passives
+LibName32=MF_Connectors
+LibName33=misc
