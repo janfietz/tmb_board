@@ -1,4 +1,4 @@
-update=Wed 27 Sep 2017 10:06:16 PM CEST
+update=Sa 14 Okt 2017 14:18:57 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=stm32
 LibName31=MF_Passives
 LibName32=MF_Connectors
 LibName33=misc
+LibName34=switches
