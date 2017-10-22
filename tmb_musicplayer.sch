@@ -423,6 +423,14 @@ Text Label 1450 5700 2    60   ~ 0
 PE10
 Text Label 1450 5800 2    60   ~ 0
 PE11
+Text Label 8450 1950 0    60   ~ 0
+PA2
+Text Label 8450 2050 0    60   ~ 0
+PA3
+Text Label 3650 4700 0    60   ~ 0
+PA2
+Text Label 3650 4600 0    60   ~ 0
+PA3
 Wire Wire Line
 	1800 3550 1450 3550
 Wire Wire Line
@@ -635,6 +643,14 @@ Wire Wire Line
 	1800 5700 1450 5700
 Wire Wire Line
 	1450 5800 1800 5800
+Wire Wire Line
+	8000 1950 8450 1950
+Wire Wire Line
+	8000 2050 8450 2050
+Wire Wire Line
+	3650 4700 3250 4700
+Wire Wire Line
+	3650 4600 3250 4600
 NoConn ~ 6750 1750
 NoConn ~ 6750 2450
 NoConn ~ 8000 1750
@@ -663,20 +679,4 @@ NoConn ~ 8000 5450
 NoConn ~ 8000 6450
 NoConn ~ 8000 6550
 NoConn ~ 8000 6650
-Text Label 8450 1950 0    60   ~ 0
-PA2
-Text Label 8450 2050 0    60   ~ 0
-PA3
-Wire Wire Line
-	8000 1950 8450 1950
-Wire Wire Line
-	8000 2050 8450 2050
-Text Label 3650 4700 0    60   ~ 0
-PA2
-Wire Wire Line
-	3650 4700 3250 4700
-Text Label 3650 4600 0    60   ~ 0
-PA3
-Wire Wire Line
-	3650 4600 3250 4600
 $EndSCHEMATC
